@@ -9,6 +9,9 @@
 **2. 핵심 기능**
 --
 사진 기반 공간 분석 -> 사용자가 찍은 사진에서 가구 / 빈 공간 인식 ![image](https://github.com/user-attachments/assets/ba57c543-9e78-4bae-a15d-21f2aff6ab18) ![image](https://github.com/user-attachments/assets/b2f5fcf0-dd8a-4b0f-825a-b8402f16294e)
+
+
+
 직접 배치 기능 -> 사용자가 드래그하여 원하는 위치에 가구 배치 (현재 거의 진행 완료)
 AI 가구 추천 -> yolo가 인식한 가구의 속성에 맞게 GNN이 가구를 추천
 --
