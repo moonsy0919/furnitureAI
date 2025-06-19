@@ -25,7 +25,8 @@ Mac,React-native
 사용자 선택 화면 - yolo가 인식한 객체와 빈공간 시각화, 사용자는 빈 공간을 선택하여 어느 빈 공간에 가구를 놔두고 싶은지를 선택 가능함.
 RoomEditor 화면 - 선택한 빈 공간만 남긴 나머지 구역(yolo,빈공간) 제외, 아래쪽에 GNN을 통한 가구 추천 리스트 시각화 및 
 사용자가 직접 드래그 & 배치 기능 탑재 (거의 완성)
-![Uploading image.png…]()
+![99835c41-ab0f-4337-9b12-fe4d53a6fb0b](https://github.com/user-attachments/assets/c62f1b02-f542-4f5b-bbc3-5866ff75cc16)
+
 
 5.앱 실행 화면
 ---
