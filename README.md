@@ -8,7 +8,9 @@
 ---
 2. 핵심 기능
 ---
-사진 기반 공간 분석 -> 사용자가 찍은 사진에서 가구 / 빈 공간 인식 ![image](https://github.com/user-attachments/assets/ba57c543-9e78-4bae-a15d-21f2aff6ab18) ![image](https://github.com/user-attachments/assets/b2f5fcf0-dd8a-4b0f-825a-b8402f16294e)
+사진 기반 공간 분석 -> 사용자가 찍은 사진에서 가구 / 빈 공간 인식 
+![image](https://github.com/user-attachments/assets/ba57c543-9e78-4bae-a15d-21f2aff6ab18) ![image](https://github.com/user-attachments/assets/b2f5fcf0-dd8a-4b0f-825a-b8402f16294e)
+
 직접 배치 기능 -> 사용자가 드래그하여 원하는 위치에 가구 배치 (현재 거의 진행 완료)
 AI 가구 추천 -> yolo가 인식한 가구의 속성에 맞게 GNN이 가구를 추천
 ---
@@ -28,7 +30,7 @@ RoomEditor 화면 - 선택한 빈 공간만 남긴 나머지 구역(yolo,빈공�
 1. 사용자는 카메라 혹은 갤러리 선택
 ![image](https://github.com/user-attachments/assets/fcfb8d1d-04ba-4a27-912d-674f728ebe8c)
 ![image](https://github.com/user-attachments/assets/02d59111-3cc1-4171-acfe-8cffdde9af23)
-
+---
 2.yolo가 인식한 가구 화면 & 빈 공간 시각화
 ![image](https://github.com/user-attachments/assets/04c430d2-85e3-49b3-8e0f-e9843a1ceb37)
 ![image](https://github.com/user-attachments/assets/96d46119-56e1-4c6e-bd4a-4dba8b2aba7d)
@@ -36,7 +38,7 @@ RoomEditor 화면 - 선택한 빈 공간만 남긴 나머지 구역(yolo,빈공�
 ![image](https://github.com/user-attachments/assets/9d7ea061-f2b5-4ff4-aff7-e93e5652292f)
 ![image](https://github.com/user-attachments/assets/d40e9115-ac43-4808-9ff8-ac04f5dbab74)
 ![image](https://github.com/user-attachments/assets/8d77808c-dd02-49e0-bc6e-3e0f7d2a942c)
-
+---
 3. 2번의 순서를 합친 최종 UI 및 하단에 가구의 속성으로 GNN 기반 추천 가구들 시각화
 ![image](https://github.com/user-attachments/assets/aabf2d7a-f505-4bd1-8608-85386dc69d70)
 ![image](https://github.com/user-attachments/assets/02860a6d-ec93-4e55-bde6-674c62fb5aea)
