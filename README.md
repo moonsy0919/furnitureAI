@@ -28,22 +28,14 @@ RoomEditor 화면 - 선택한 빈 공간만 남긴 나머지 구역(yolo,빈공�
 
 5.앱 실행 화면
 ---
-1. 사용자는 카메라 혹은 갤러리 선택
---
 ![image](https://github.com/user-attachments/assets/fcfb8d1d-04ba-4a27-912d-674f728ebe8c)
 ![image](https://github.com/user-attachments/assets/02d59111-3cc1-4171-acfe-8cffdde9af23)
---
-2.yolo가 인식한 가구 화면 & 빈 공간 시각화
---
 ![image](https://github.com/user-attachments/assets/04c430d2-85e3-49b3-8e0f-e9843a1ceb37)
 ![image](https://github.com/user-attachments/assets/96d46119-56e1-4c6e-bd4a-4dba8b2aba7d)
 ![image](https://github.com/user-attachments/assets/426cd8fe-3051-4814-9a18-39c4353363b1)
 ![image](https://github.com/user-attachments/assets/9d7ea061-f2b5-4ff4-aff7-e93e5652292f)
 ![image](https://github.com/user-attachments/assets/d40e9115-ac43-4808-9ff8-ac04f5dbab74)
 ![image](https://github.com/user-attachments/assets/8d77808c-dd02-49e0-bc6e-3e0f7d2a942c)
----
-3. 2번의 순서를 합친 최종 UI 및 하단에 가구의 속성으로 GNN 기반 추천 가구들 시각화
---
 ![image](https://github.com/user-attachments/assets/aabf2d7a-f505-4bd1-8608-85386dc69d70)
 ![image](https://github.com/user-attachments/assets/02860a6d-ec93-4e55-bde6-674c62fb5aea)
 ![image](https://github.com/user-attachments/assets/4e1d243a-65c7-4063-91a4-912b52b1d13a)
